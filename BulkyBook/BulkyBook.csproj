@@ -17,8 +17,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.1.0-preview1.19506.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.0-preview1-19509-03" />
-    <PackageReference Include="Stripe.net" Version="34.11.0" />
-    <PackageReference Include="Twilio" Version="5.37.1" />
+    <PackageReference Include="Stripe.net" Version="39.70.0" />
+    <PackageReference Include="Twilio" Version="5.66.0" />
   </ItemGroup>
 
 
